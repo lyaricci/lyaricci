@@ -1,7 +1,3 @@
-<div id="gif" align="center">
-  <a href="https://app.daily.dev/lyaricci"><img src="https://api.daily.dev/devcards/1ca21a4699154d8c8ae46ec018a68bff.png?r=d5x" width="400" alt="Nathálya Ricci's Dev Card"/></a>
-</div>
-
 <h1 align="center">Hi 👋, I'm Nathálya</h1>
 <h3 align="center">A front-end developer from Brazil</h3>
 

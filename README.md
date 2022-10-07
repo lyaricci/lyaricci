@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Nathálya</h1>
-<h3 align="center">A front-end developer from Brazil</h3>
+<div align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQGUFxZimdVABQ/profile-displaybackgroundimage-shrink_350_1400/0/1649114625887?e=1670457600&v=beta&t=gC1UxezzA66GZoTToDigsiVq7ddc7lPq1LgQwcSC7f8">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nathalya-ricci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathalya-ricci/" height="30" width="40" /></a>
-</p>
+<a href="mailto:nathalyaricci@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  "></img>
+</a>
+<a href="https://www.linkedin.com/in/nathalya-ricci/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  "></img>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</div>
 
-  <h3 align="left">Learning:</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<br>
+<hr>
+<br>
 
-  <h3 align="left">Interested in:</h3>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+<h2>⚒️ Languages and Tools</h2>
+<br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalya-ricci&show_icons=true&theme=dark&title_color=d600cf&text_color=ffffff&locale=en&layout=compact" alt="nathalya-ricci" /></p>
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=100000)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nathalya-ricci&show_icons=true&theme=dark&title_color=d600cf&text_color=ffffff&locale=en" alt="nathalya-ricci"></p>
+<br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathalya-ricci&theme=dark" alt="nathalya-ricci"></p>
+<h2>👀 Interested in</h2>
+<br>
+
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![figma](https://img.shields.io/badge/Figma-e63946?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="nathalya-ricci" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="nathalya-ricci">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathalya-ricci&theme=tokyonight&hide_border=true" alt="nathalya-ricci">
+</div>

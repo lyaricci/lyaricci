@@ -1,14 +1,4 @@
 <div align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQGUFxZimdVABQ/profile-displaybackgroundimage-shrink_350_1400/0/1649114625887?e=1670457600&v=beta&t=gC1UxezzA66GZoTToDigsiVq7ddc7lPq1LgQwcSC7f8">
-
-<a href="mailto:nathalyaricci@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  "></img>
-</a>
-<a href="https://www.linkedin.com/in/nathalya-ricci/" target="_blank>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  "></img>
-</a>
-
 </div>
 
 <br>

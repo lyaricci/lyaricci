@@ -1,10 +1,3 @@
-<div align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQGUFxZimdVABQ/profile-displaybackgroundimage-shrink_350_1400/0/1649114625887?e=1670457600&v=beta&t=gC1UxezzA66GZoTToDigsiVq7ddc7lPq1LgQwcSC7f8">
-</div>
-
-<br>
-<hr>
-<br>
-
 <h2>⚒️ Languages and Tools</h2>
 <br>
 
@@ -16,6 +9,7 @@
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-e63946?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
@@ -26,7 +20,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![figma](https://img.shields.io/badge/Figma-e63946?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 <hr>

@@ -1,5 +1,20 @@
-<h2>⚒️ Languages and Tools</h2>
+<img src="header-nathalya.png">
+
 <br>
+
+## Hi, there 👋🏻
+
+My name's Nathálya, but you can call me Lya :)
+
+I'm a Frontend Developer from Rio de Janeiro, Brazil.
+
+I'm currently improving my knowledge of Javascript and learning React JS.
+
+My hobbies are reading books, comics and mangas, watching movies and tv shows. Also, I'm passionate about technology and everything that involves it, so I spend hours and hours reading and watching videos about it.
+
+<br>
+
+## Languages and Tools
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,8 +28,7 @@
 
 <br>
 
-<h2>👀 Interested in</h2>
-<br>
+## Interested in
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

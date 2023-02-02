@@ -13,6 +13,8 @@ I'm currently improving my knowledge of Javascript and learning React JS.
 My hobbies are reading books, comics and mangas, watching movies and tv shows. Also, I'm passionate about technology and everything that involves it, so I spend hours and hours reading and watching videos about it.
 
 <br>
+<hr>
+<br>
 
 ## Languages and Tools
 

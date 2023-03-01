@@ -8,7 +8,7 @@ My name's Nathálya, but you can call me Lya :)
 
 I'm a Frontend Developer from Rio de Janeiro, Brazil.
 
-I'm currently improving my knowledge of Javascript and learning React JS.
+I'm currently improving my knowledge of Javascript.
 
 My hobbies are reading books, comics and mangas, watching movies and tv shows. Also, I'm passionate about technology and everything that involves it, so I spend hours and hours reading and watching videos about it.
 

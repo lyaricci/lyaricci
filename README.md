@@ -51,5 +51,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="nathalya-ricci">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathalya-ricci&theme=tokyonight&hide_border=true" alt="nathalya-ricci">
 </div>

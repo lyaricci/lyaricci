@@ -37,7 +37,7 @@
 
 ## Contact
 
-<a href="https://linkedin.com/in/nathalya-ricci">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/lyaricci">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:nathalyaricci@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://discord.com/users/506557042530451482">![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
@@ -46,9 +46,9 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="nathalya-ricci" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lyaricci&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="lyaricci" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="nathalya-ricci">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyaricci&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="lyaricci">
 </div>

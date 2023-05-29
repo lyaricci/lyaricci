@@ -8,7 +8,7 @@
 
 - 📚 I'm currently learning ReactJS and improving my knowledge of the basic FE stack.
 
-- 🕹 I like technology in general. I can spend hours watching videos and reading about new tech stuff, setting up my Neovim environment, listening to music and reading a good book.
+- 🕹 I like technology in general. I can spend hours watching videos and reading about new tech stuff, setting up my Neovim environment, "ricing" my WM env, listening to music and reading a good book.
 
 <br>
 <hr>

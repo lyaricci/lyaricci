@@ -42,6 +42,8 @@ Além de tecnologia, tenho outros hobbies que adoro!
 Explorar mundos cinematográficos 🎬 e mergulhar em séries cativantes 📺, ler um bom livro/hq/mangá 📖 e ouvir minhas playlists ecléticas 🎶.
 Também não abro mão de um bom pedal de bike 🚲.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ricciwitch&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ricciwitch&redirect=true)
+
 ## Contato
 
 Estou aberta a colaborações, sugestões e conversas inspiradoras. Sinta-se à vontade para entrar em contato comigo por meio das seguintes plataformas:

@@ -2,14 +2,12 @@
   <img align="right" src="./assets/picrew.png" alt="Illustation of a girl with glasses and short hair" width=40% height=40% />
 </a>
 
-# Hi, I'm Nathálya! 👋🏻
+# Olá, sou a Lya! 👋🏻
 
-[Não fala inglês? Clique aqui para ver a versão em português](./README-PTBR.md)
+Me chamo Nathálya Ricci (podem me chamar de Lya!), sou estudante de Desenvolvimento Web e resido no Rio de Janeiro.
+Atualmente estou aprimorando meus conhecimentos na área de Frontend.
 
-My name's Nathálya Ricci (you can call me Lya!), I'm a Web Development student living in Rio de Janeiro, Brazil.
-I am currently enhancing my skills in the Frontend area.
-
-## My skills are
+## Meus conhecimentos são
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +16,7 @@ I am currently enhancing my skills in the Frontend area.
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## I'm interested in
+## Tecnologias que tenho interesse
 
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![sveltekit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
@@ -27,7 +25,7 @@ I am currently enhancing my skills in the Frontend area.
 ![ruby](https://img.shields.io/badge/Ruby-fefefe?style=for-the-badge&logo=ruby&logoColor=CC342D)
 ![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-## Techs I use
+## Ferramentas que uso
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -40,11 +38,13 @@ I am currently enhancing my skills in the Frontend area.
 
 ## Hobbies
 
-In addition to technology, I have other hobbies that I love! Exploring cinematic worlds 🎬 and diving into captivating series 📺, reading a good book/comic/manga 📖, and listening to my eclectic playlists 🎶. I also never pass up a good bike ride 🚲.
+Além de tecnologia, tenho outros hobbies que adoro!
+Explorar mundos cinematográficos 🎬 e mergulhar em séries cativantes 📺, ler um bom livro/hq/mangá 📖 e ouvir minhas playlists ecléticas 🎶.
+Também não abro mão de um bom pedal de bike 🚲.
 
-## Contact
+## Contato
 
-I am open to collaborations, suggestions, and inspiring conversations. Feel free to reach out to me through the following platforms:
+Estou aberta a colaborações, sugestões e conversas inspiradoras. Sinta-se à vontade para entrar em contato comigo por meio das seguintes plataformas:
 
 <a href="https://linkedin.com/in/lyaricci">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:nathalyaricci@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>

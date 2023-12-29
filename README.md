@@ -3,7 +3,7 @@
   <img align="right" src="./assets/picrew.png" alt="Illustation of a girl with glasses and short hair" width=40% height=40% />
 </a>
 
-# Hi, I'm Nathálya! 👋🏻
+# Hi, I'm Lya! 👋🏻
 
 [Não fala inglês? Clique aqui para ver a versão em português](./README-PTBR.md)
 

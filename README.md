@@ -1,3 +1,4 @@
+
 <a href="https://picrew.me/en/image_maker/2224422" title="Picrew image">
   <img align="right" src="./assets/picrew.png" alt="Illustation of a girl with glasses and short hair" width=40% height=40% />
 </a>
@@ -41,6 +42,8 @@ I am currently enhancing my skills in the Frontend area.
 ## Hobbies
 
 In addition to technology, I have other hobbies that I love! Exploring cinematic worlds 🎬 and diving into captivating series 📺, reading a good book/comic/manga 📖, and listening to my eclectic playlists 🎶. I also never pass up a good bike ride 🚲.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ricciwitch&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ricciwitch&redirect=true)
 
 ## Contact
 
